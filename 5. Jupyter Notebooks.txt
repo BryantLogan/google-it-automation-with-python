@@ -1,0 +1,3 @@
+Jupyter Notebook Tutorial: https://www.datacamp.com/tutorial/tutorial-jupyter-notebook
+How to use Jupyter Notebooks: https://www.codecademy.com/article/how-to-use-jupyter-notebooks
+Teaching and LEarning with Jupyter: https://jupyter4edu.github.io/jupyter-edu-book/

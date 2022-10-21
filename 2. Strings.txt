@@ -1,0 +1,5 @@
+String methods: https://docs.python.org/3/library/stdtypes.html#string-methods
+Format String Syntax: https://docs.python.org/3/library/string.html#formatstrings
+Format Specification: https://docs.python.org/3/library/string.html#format-specification-mini-language
+Old String Formatting: https://docs.python.org/3/library/stdtypes.html#old-string-formatting
+f-strings: https://docs.python.org/3/reference/lexical_analysis.html#f-strings
